@@ -1,3 +1,7 @@
-altair
 pandas
 streamlit
+requests
+fastapi
+pydantic
+joblib
+json 
